@@ -1,0 +1,1 @@
+ [BLOG](https://herculeswill.github.io)
